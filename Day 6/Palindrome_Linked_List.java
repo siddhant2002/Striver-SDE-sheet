@@ -1,3 +1,4 @@
+package Day 6;
 
 class Palindrome_Linked_List
 {
