@@ -1,4 +1,4 @@
-package Day 5;
+package Day 7;
 
 class Remove_Duplicates_from_Sorted_Array
 {
